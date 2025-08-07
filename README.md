@@ -49,7 +49,7 @@ git push -u origin main
     - edicting values (past and future)
     - Fit the regression line
 
-    - Sample data to learn regression: (https://github.com/pdeitel/IntroToPython/tree/master)
+  # Sample data to learn regression: (https://github.com/pdeitel/IntroToPython/tree/master)
 
 
     
