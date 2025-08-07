@@ -41,13 +41,13 @@ git push -u origin main
   - Data source avg_NYC_temp dataset (https://github.com/pdeitel/IntroToPython/blob/master/examples/ch15/ave_hi_nyc_jan_1895-2018.csv)
   - Tools: linregress, sklearn.linear_model
   - Steps:
-    -- Acquiring the data
-    -- Insepcting the data
-    -- cleaning the data
-    -- Descriptive statistics
-    -- Building the model
-    -- Predicting values (past and future)
-    -- Fit the regression line
+    - Acquiring the data
+    - Insepcting the data
+    - cleaning the data
+    - Descriptive statistics
+    - Building the model
+    - edicting values (past and future)
+    - Fit the regression line
 
     - Sample data to learn regression: (https://github.com/pdeitel/IntroToPython/tree/master)
 
