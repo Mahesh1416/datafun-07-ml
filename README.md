@@ -37,7 +37,19 @@ git push -u origin main
   - Use Git to add, commit, and push your new files to GitHub
   - Create a Local Python Virtual Environment for your project
   - Started a new machine learning project
+# Project structure
+  - Data source avg_NYC_temp dataset (https://github.com/pdeitel/IntroToPython/blob/master/examples/ch15/ave_hi_nyc_jan_1895-2018.csv)
+  - Tools: linregress, sklearn.linear_model
+  - Steps:
+    -- Acquiring the data
+    -- Insepcting the data
+    -- cleaning the data
+    -- Descriptive statistics
+    -- Building the model
+    -- Predicting values (past and future)
+    -- Fit the regression line
 
+    - Sample data to learn regression: (https://github.com/pdeitel/IntroToPython/tree/master)
 
 
     
